@@ -1,0 +1,31 @@
+.colornav {
+    background-color: #E83E8C;
+}
+
+.alineacion {
+    margin-left: auto;
+
+}
+
+.fuentenav {
+    font-family: "Open Sans";
+    color: white;
+    /*padding: 20px;*/
+
+}
+
+#ahora-aceptamos {
+    background-color: #17A2B8 ;
+    padding-top: 58px;
+    padding-bottom: 58px;
+}
+
+
+
+footer img {
+    width: 54px;
+}
+
+.card-text {
+    text-align: justify;
+}
